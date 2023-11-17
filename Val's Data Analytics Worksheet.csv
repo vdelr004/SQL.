@@ -1,0 +1,460 @@
+﻿Depo Date,Action Date,User Name,User Role,Registered User,Job #,Event category,Event Name,DepositionId,Event count
+5/1/2023 10:00,5/1/2023 7:00,Adriana  Argento ,Attorney,No,86642,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,c5135371-1f30-41aa-9fcb-398f612293b5,1
+5/1/2023 10:00,5/1/2023 8:00,Amanda Burns,Attorney,Yes,86642,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c5135371-1f30-41aa-9fcb-398f612293b5,10
+5/1/2023 10:00,5/1/2023 8:00,Amanda Burns,Witness,Yes,86642,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c5135371-1f30-41aa-9fcb-398f612293b5,10
+5/1/2023 10:00,5/1/2023 8:00,George Clooney,CourtReporter,CR,86642,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,c5135371-1f30-41aa-9fcb-398f612293b5,1
+5/1/2023 10:00,5/1/2023 8:00,George Clooney,CourtReporter,CR,86642,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c5135371-1f30-41aa-9fcb-398f612293b5,2
+5/1/2023 10:00,5/31/2023 13:00,Marissa Snyder,Paralegal,Yes,86642,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c5135371-1f30-41aa-9fcb-398f612293b5,18
+5/1/2023 10:30,5/1/2023 8:00,Geoffrey Pforr,Attorney,Yes,86633,Transcription Flag and Private Notes,Flagged Speech-To-Text,5f7dc327-d401-4c5f-87f6-271d7ed61027,1
+5/1/2023 10:30,5/1/2023 8:00,Geoffrey Pforr,Attorney,Yes,86633,Transcription Flag and Private Notes,Unflagged Speech-To-Text,5f7dc327-d401-4c5f-87f6-271d7ed61027,1
+5/1/2023 10:30,5/2/2023 6:00,Janet Jackson,CourtReporter,CR,86633,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,5f7dc327-d401-4c5f-87f6-271d7ed61027,1
+5/1/2023 10:30,5/2/2023 6:00,Janet Jackson,CourtReporter,CR,86633,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f7dc327-d401-4c5f-87f6-271d7ed61027,2
+5/1/2023 10:30,5/23/2023 10:00,Carrie Reiter,Attorney,Yes,86633,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f7dc327-d401-4c5f-87f6-271d7ed61027,2
+5/1/2023 11:00,5/1/2023 8:00,Susan Pagano,Paralegal,Yes,12345,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,49450dfd-617f-412f-96d3-e0b3197b0354,1
+5/1/2023 11:00,5/1/2023 9:00,Susan Pagano,Paralegal,Yes,12345,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,49450dfd-617f-412f-96d3-e0b3197b0354,3
+5/1/2023 11:00,5/1/2023 12:00,Susan Pagano,Paralegal,Yes,12345,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,49450dfd-617f-412f-96d3-e0b3197b0354,3
+5/1/2023 11:00,5/1/2023 12:00,Susan Pagano,Paralegal,Yes,12345,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,49450dfd-617f-412f-96d3-e0b3197b0354,1
+5/1/2023 11:00,5/1/2023 13:00,Susan Pagano,Paralegal,Yes,12345,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,49450dfd-617f-412f-96d3-e0b3197b0354,2
+5/1/2023 11:00,5/15/2023 15:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,44
+5/1/2023 11:00,5/16/2023 13:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,80
+5/1/2023 11:00,5/16/2023 14:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,108
+5/1/2023 11:00,5/16/2023 15:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,91
+5/1/2023 11:00,5/18/2023 8:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,46
+5/1/2023 11:00,5/18/2023 9:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,64
+5/1/2023 11:00,5/18/2023 10:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,63
+5/1/2023 11:00,5/18/2023 11:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,20
+5/1/2023 11:00,5/18/2023 12:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,49
+5/1/2023 11:00,5/18/2023 13:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,82
+5/1/2023 11:00,5/18/2023 14:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,50
+5/1/2023 11:00,5/18/2023 15:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,15
+5/1/2023 11:00,5/19/2023 7:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,6
+5/1/2023 11:00,5/19/2023 8:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,56
+5/1/2023 11:00,5/19/2023 9:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,62
+5/1/2023 11:00,5/19/2023 10:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,43
+5/1/2023 11:00,5/19/2023 11:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,7
+5/1/2023 11:00,5/22/2023 9:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,41
+5/1/2023 11:00,5/22/2023 10:00,Angelina Jolie,CourtReporter,CR,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,1
+5/1/2023 11:00,5/22/2023 11:00,Susan Pagano,Paralegal,Yes,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,1
+5/1/2023 11:00,5/22/2023 13:00,David Krangle,Attorney,Yes,12345,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,49450dfd-617f-412f-96d3-e0b3197b0354,1
+5/1/2023 12:00,5/1/2023 10:00,Katie Perry,CourtReporter,CR,75763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c4102616-554e-4fea-b358-082acbfd1751,3
+5/1/2023 12:00,5/1/2023 11:00,Deborah Stetzel,Paralegal,Yes,75763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c4102616-554e-4fea-b358-082acbfd1751,1
+5/1/2023 12:00,5/2/2023 12:00,Katie Perry,CourtReporter,CR,75763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c4102616-554e-4fea-b358-082acbfd1751,1
+5/1/2023 12:00,5/4/2023 6:00,Katie Perry,CourtReporter,CR,75763,Post Depo Marked Exhibits Tab,Uploaded NEW Exhibit to Marked Exhibits tab in Post Depo,c4102616-554e-4fea-b358-082acbfd1751,2
+5/1/2023 12:00,5/4/2023 6:00,Katie Perry,CourtReporter,CR,75763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c4102616-554e-4fea-b358-082acbfd1751,1
+5/1/2023 12:00,5/22/2023 7:00,Deborah Stetzel,Paralegal,Yes,75763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c4102616-554e-4fea-b358-082acbfd1751,1
+5/1/2023 13:30,5/1/2023 11:00,Everett Lupton,Attorney,Yes,96648,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,5f104780-a35b-479b-bc59-ecc5de9636f2,3
+5/1/2023 13:30,5/1/2023 11:00,Steven Stanlciff,Attorney,Yes,96648,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,2
+5/1/2023 13:30,5/1/2023 11:00,Steven Stanlciff,Attorney,Yes,96648,Transcription Flag and Private Notes,Flagged Speech-To-Text,5f104780-a35b-479b-bc59-ecc5de9636f2,4
+5/1/2023 13:30,5/1/2023 12:00,Steven Stanlciff,Attorney,Yes,96648,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/1/2023 12:00,Steven Stanlciff,Attorney,Yes,96648,Screen Share,Clicked RED 'Stop Share' button In Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/1/2023 12:00,Steven Stanlciff,Attorney,Yes,96648,Screen Share,Started screen-sharing In Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/1/2023 12:00,Steven Stanlciff,Attorney,Yes,96648,Transcription Flag and Private Notes,Flagged Speech-To-Text,5f104780-a35b-479b-bc59-ecc5de9636f2,3
+5/1/2023 13:30,5/2/2023 6:00,Chris Rock,CourtReporter,CR,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/2/2023 6:00,Owen Wilson,Observer,ADMIN,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/2/2023 6:00,Sherri Carter,Paralegal,Yes,96648,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/2/2023 6:00,Sherri Carter,Paralegal,Yes,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,31
+5/1/2023 13:30,5/2/2023 7:00,Chris Rock,CourtReporter,CR,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,3
+5/1/2023 13:30,5/2/2023 7:00,Owen Wilson,Observer,ADMIN,96648,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/2/2023 7:00,Owen Wilson,Observer,ADMIN,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,47
+5/1/2023 13:30,5/2/2023 7:00,Owen Wilson,Observer,ADMIN,96648,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,5/2/2023 7:00,Melissa McCarthy,Observer,ADMIN,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,6/1/2023 8:00,Steven Stanlciff,Attorney,Yes,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,36
+5/1/2023 13:30,6/1/2023 8:00,Steven Stanlciff,Attorney,Yes,96648,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,6/2/2023 8:00,Steven Stanlciff,Attorney,Yes,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 13:30,6/14/2023 19:00,Steven Stanlciff,Attorney,Yes,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,5f104780-a35b-479b-bc59-ecc5de9636f2,1
+5/1/2023 14:00,5/1/2023 13:00,Everett Lupton,Attorney,Yes,96648,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,946f8a34-6e4d-4fcc-8713-ed7426a12789,4
+5/1/2023 14:00,5/1/2023 14:00,Chris Rock,CourtReporter,CR,96648,Screen Share,Clicked RED 'Stop Share' button In Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/1/2023 14:00,5/1/2023 14:00,Steven Stanlciff,Attorney,Yes,96648,In Depo Marked Exhibits,,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/1/2023 14:00,5/1/2023 14:00,Steven Stanlciff,Attorney,Yes,96648,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,946f8a34-6e4d-4fcc-8713-ed7426a12789,2
+5/1/2023 14:00,5/1/2023 14:00,Steven Stanlciff,Attorney,Yes,96648,Screen Share,Started screen-sharing In Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/1/2023 14:00,5/1/2023 14:00,Steven Stanlciff,Attorney,Yes,96648,Transcription Flag and Private Notes,Flagged Speech-To-Text,946f8a34-6e4d-4fcc-8713-ed7426a12789,5
+5/1/2023 14:00,5/2/2023 4:00,Sherri Carter,Paralegal,Yes,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,14
+5/1/2023 14:00,5/2/2023 6:00,Chris Rock,CourtReporter,CR,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,18
+5/1/2023 14:00,5/2/2023 6:00,Chris Rock,CourtReporter,CR,96648,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,3
+5/1/2023 14:00,5/2/2023 6:00,Owen Wilson,Observer,ADMIN,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,40
+5/1/2023 14:00,5/2/2023 6:00,Sherri Carter,Paralegal,Yes,96648,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/1/2023 14:00,5/2/2023 6:00,Sherri Carter,Paralegal,Yes,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/1/2023 14:00,5/2/2023 7:00,Chris Rock,CourtReporter,CR,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,5
+5/1/2023 14:00,5/2/2023 7:00,Melissa McCarthy,Observer,ADMIN,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/1/2023 14:00,5/9/2023 9:00,Chris Rock,CourtReporter,CR,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/1/2023 14:00,5/9/2023 12:00,Everett Lupton,Attorney,Yes,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,4
+5/1/2023 14:00,5/18/2023 7:00,Melissa McCarthy,Observer,ADMIN,96648,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,946f8a34-6e4d-4fcc-8713-ed7426a12789,1
+5/2/2023 10:00,5/2/2023 6:00,Oprah Winfrey,TechExpert,ADMIN,36627,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/2/2023 7:00,Arnold Reed,Attorney,Yes,96112,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,9d5715fa-6e8d-483a-9a75-4bea1232e743,3
+5/2/2023 10:00,5/2/2023 7:00,Scott  Porter,Attorney,No,36627,Screen Share,Started screen-sharing In Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/2/2023 8:00,Arnold Reed,Attorney,Yes,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,1
+5/2/2023 10:00,5/2/2023 8:00,Vivica A. Fox,CourtReporter,CR,46262,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,ed2618f3-794e-418f-ad19-93546167b08h,1
+5/2/2023 10:00,5/2/2023 8:00,Vivica A. Fox,CourtReporter,CR,46262,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,ed2618f3-794e-418f-ad19-93546167b08h,2
+5/2/2023 10:00,5/2/2023 9:00,Alison Nieschulz,Paralegal,Yes,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,93
+5/2/2023 10:00,5/2/2023 10:00,Courtney Cox,CourtReporter,CR,96112,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,1
+5/2/2023 10:00,5/2/2023 10:00,Courtney Cox,CourtReporter,CR,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,1
+5/2/2023 10:00,5/2/2023 10:00,Kat Thomas,Attorney,Yes,36627,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/2/2023 11:00,Courtney Cox,CourtReporter,CR,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,2
+5/2/2023 10:00,5/2/2023 11:00,Kat Thomas,Attorney,Yes,36627,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,87a1125b-b500-423c-9a87-d773365e87e4,7
+5/2/2023 10:00,5/2/2023 12:00,Oprah Winfrey,TechExpert,ADMIN,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,78
+5/2/2023 10:00,5/2/2023 12:00,Oprah Winfrey,TechExpert,ADMIN,36627,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,5
+5/2/2023 10:00,5/2/2023 13:00,Nicholas Chrysanthem,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,2
+5/2/2023 10:00,5/2/2023 14:00,Susan B. Anthony,CourtReporter,CR,36627,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/2/2023 14:00,Susan B. Anthony,CourtReporter,CR,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,9
+5/2/2023 10:00,5/2/2023 15:00,Kat Thomas,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,87
+5/2/2023 10:00,5/2/2023 16:00,Kat Thomas,Attorney,Yes,36627,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/2/2023 16:00,Kat Thomas,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,2
+5/2/2023 10:00,5/2/2023 16:00,Kat Thomas,Attorney,Yes,36627,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,3
+5/2/2023 10:00,5/2/2023 16:00,Nicholas Chrysanthem,Attorney,Yes,36627,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,2
+5/2/2023 10:00,5/2/2023 16:00,Nicholas Chrysanthem,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,7
+5/2/2023 10:00,5/3/2023 9:00,Nicholas Chrysanthem,Attorney,Yes,36627,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/3/2023 9:00,Nicholas Chrysanthem,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,136
+5/2/2023 10:00,5/3/2023 12:00,Christian Struven,Paralegal,Yes,46262,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,ed2618f3-794e-418f-ad19-93546167b08h,40
+5/2/2023 10:00,5/3/2023 14:00,Oprah Winfrey,TechExpert,ADMIN,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/4/2023 7:00,Kat Thomas,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/4/2023 11:00,Dawn Stewart,Paralegal,Yes,36627,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/4/2023 11:00,Dawn Stewart,Paralegal,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,54
+5/2/2023 10:00,5/9/2023 11:00,timothy coon,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/10/2023 14:00,Verna Marthinus,Paralegal,Yes,36627,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 10:00,5/10/2023 14:00,Verna Marthinus,Paralegal,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,2
+5/2/2023 10:00,5/15/2023 8:00,File  Clerk ,Teammate,Yes,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,4
+5/2/2023 10:00,5/19/2023 4:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,1
+5/2/2023 10:00,5/19/2023 5:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,33
+5/2/2023 10:00,5/22/2023 4:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,1
+5/2/2023 10:00,5/22/2023 10:00,File  Clerk ,Teammate,Yes,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,1
+5/2/2023 10:00,5/22/2023 10:00,Trezure Calmese,Paralegal,Yes,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,1
+5/2/2023 10:00,5/22/2023 11:00,Alison Nieschulz,Paralegal,Yes,96112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9d5715fa-6e8d-483a-9a75-4bea1232e743,1
+5/2/2023 10:00,5/23/2023 6:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,39
+5/2/2023 10:00,5/23/2023 7:00,Brad Pitt,CourtReporter,CR,92567,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3146ae23-16dc-4bdf-842a-00a5ce38647a,9
+5/2/2023 10:00,5/23/2023 7:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,113
+5/2/2023 10:00,5/23/2023 7:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,1
+5/2/2023 10:00,5/23/2023 8:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,69
+5/2/2023 10:00,5/24/2023 8:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,25
+5/2/2023 10:00,5/24/2023 9:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,129
+5/2/2023 10:00,5/24/2023 10:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,111
+5/2/2023 10:00,5/24/2023 11:00,Kristen Bell,CourtReporter,CR,92456,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,24851c86-c7f1-4b4c-9464-d6523ce43188,23
+5/2/2023 10:00,5/30/2023 7:00,timothy coon,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,89
+5/2/2023 10:00,5/30/2023 8:00,Dawn Stewart,Paralegal,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,85
+5/2/2023 10:00,5/31/2023 10:00,Nicholas Chrysanthem,Attorney,Yes,36627,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,87a1125b-b500-423c-9a87-d773365e87e4,1
+5/2/2023 11:00,5/2/2023 8:00,Walter Benson,Attorney,Yes,66647,Screen Share,Started screen-sharing In Depo,789e8353-a634-45bd-ab4e-6eafce496626,12
+5/2/2023 11:00,5/2/2023 11:00,Jacklynn Summers,Paralegal,Yes,56652,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c1fc58f0-30df-4af2-bf18-10127c0f2048,1
+5/2/2023 11:00,5/2/2023 11:00,Walter White,CourtReporter,CR,56652,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,c1fc58f0-30df-4af2-bf18-10127c0f2048,1
+5/2/2023 11:00,5/2/2023 11:00,Walter White,CourtReporter,CR,56652,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c1fc58f0-30df-4af2-bf18-10127c0f2048,3
+5/2/2023 11:00,5/2/2023 12:00,Jacklynn Summers,Paralegal,Yes,56652,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c1fc58f0-30df-4af2-bf18-10127c0f2048,1
+5/2/2023 11:00,5/3/2023 8:00,Denise Chartrand,Paralegal,Yes,66647,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,2
+5/2/2023 11:00,5/22/2023 9:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,7
+5/2/2023 11:00,5/22/2023 13:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,45
+5/2/2023 11:00,5/22/2023 15:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,2
+5/2/2023 11:00,5/22/2023 16:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,77
+5/2/2023 11:00,5/22/2023 16:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,5
+5/2/2023 11:00,5/22/2023 17:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,36
+5/2/2023 11:00,5/22/2023 17:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,1
+5/2/2023 11:00,5/22/2023 18:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,30
+5/2/2023 11:00,5/22/2023 18:00,Andersoon Cooper,CourtReporter,CR,66647,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,789e8353-a634-45bd-ab4e-6eafce496626,2
+5/2/2023 11:00,5/24/2023 12:00,Brad Pitt,CourtReporter,CR,42567,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,a77e2ae7-8d32-488e-9059-2bd8adb82ca3,1
+5/2/2023 11:00,5/30/2023 6:00,Joan Ruddy,Attorney,Yes,56652,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,c1fc58f0-30df-4af2-bf18-10127c0f2048,1
+5/2/2023 11:00,5/30/2023 6:00,Joan Ruddy,Attorney,Yes,56652,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,c1fc58f0-30df-4af2-bf18-10127c0f2048,12
+5/2/2023 11:30,5/2/2023 12:00,Katie Perry,CourtReporter,CR,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,1
+5/2/2023 11:30,5/3/2023 7:00,James Rubinowitz,Attorney,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,154
+5/2/2023 11:30,5/3/2023 7:00,James Rubinowitz,Attorney,Yes,46669,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,3
+5/2/2023 11:30,5/3/2023 10:00,Timothy Burns,Attorney,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,5
+5/2/2023 11:30,5/4/2023 6:00,Timothy Burns,Attorney,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,5
+5/2/2023 11:30,5/4/2023 10:00,James Rubinowitz,Attorney,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,1
+5/2/2023 11:30,5/9/2023 10:00,Timothy Burns,Attorney,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,1
+5/2/2023 11:30,7/26/2023 11:00,BRIAN HENDERSON,Teammate,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,1
+5/2/2023 11:30,7/26/2023 11:00,James Rubinowitz,Attorney,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,3
+5/2/2023 11:30,8/4/2023 6:00,BRIAN HENDERSON,Teammate,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,8
+5/2/2023 11:30,10/4/2023 13:00,Jennifer Porras,Teammate,Yes,46669,Post Depo Marked Exhibits Tab,Clicked 'Marked Exhibits' tab to view ALL Marked Exhibits in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,1
+5/2/2023 11:30,10/4/2023 13:00,Jennifer Porras,Teammate,Yes,46669,Post Deposition Summary Tab,Played Witness-Only Video in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,1
+5/2/2023 11:30,10/4/2023 13:00,Jennifer Porras,Teammate,Yes,46669,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,11
+5/2/2023 11:30,10/4/2023 13:00,Jennifer Porras,Teammate,Yes,46669,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,25a24cae-fef7-4bb1-acd2-09b2a56e956l,3
+5/2/2023 12:00,5/2/2023 11:00,Oleksandr  Kryvenko,Attorney,No,86667,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,a1d91c72-327b-448b-818b-2de124f12ab1,1
+5/2/2023 12:00,5/2/2023 11:00,Gwen Stefani,CourtReporter,CR,86667,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,a1d91c72-327b-448b-818b-2de124f12ab1,3
+5/2/2023 12:00,5/2/2023 11:00,Gwen Stefani,CourtReporter,CR,86667,Transcription Flag and Private Notes,Flagged Speech-To-Text,a1d91c72-327b-448b-818b-2de124f12ab1,4
+5/2/2023 13:00,5/2/2023 10:00,Arnold Reed,Attorney,Yes,46112,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,3a8e91aa-a55c-4818-b551-17f1b509509k,3
+5/2/2023 13:00,5/2/2023 10:00,Courtney Cox,CourtReporter,CR,46112,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/2/2023 10:00,Courtney Cox,CourtReporter,CR,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,2
+5/2/2023 13:00,5/2/2023 11:00,Courtney Cox,CourtReporter,CR,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/2/2023 11:00,Katie Perry,Observer,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/2/2023 12:00,Alison Nieschulz,Paralegal,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/2/2023 13:00,Kelly Madden,Observer,ADMIN,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,2
+5/2/2023 13:00,5/11/2023 8:00,File  Clerk ,Teammate,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/15/2023 8:00,File  Clerk ,Teammate,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,2
+5/2/2023 13:00,5/16/2023 6:00,File  Clerk ,Teammate,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/22/2023 10:00,File  Clerk ,Teammate,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/22/2023 10:00,Trezure Calmese,Paralegal,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:00,5/22/2023 12:00,Alison Nieschulz,Paralegal,Yes,46112,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3a8e91aa-a55c-4818-b551-17f1b509509k,1
+5/2/2023 13:30,5/2/2023 10:00,Deborah Kovsky-Apap,Attorney,Yes,36671,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/2/2023 10:00,Justin Trudeau,TechExpert,ADMIN,36671,Screen Share,Started screen-sharing In Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/2/2023 10:00,Molly Ringwald,Observer,ADMIN,36671,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/2/2023 10:00,Michael  Slade,Attorney,No,36671,Screen Share,Started screen-sharing In Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,2
+5/2/2023 13:30,5/2/2023 13:00,Blake Shelton,CourtReporter,CR,36671,5-Star Feedback,Clicked Rate Us Button,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/3/2023 5:00,Blake Shelton,CourtReporter,CR,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/3/2023 6:00,Blake Shelton,CourtReporter,CR,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,9
+5/2/2023 13:30,5/3/2023 7:00,Blake Shelton,CourtReporter,CR,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,6
+5/2/2023 13:30,5/3/2023 12:00,Molly Ringwald,Observer,ADMIN,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,2
+5/2/2023 13:30,5/4/2023 5:00,Deborah Kovsky-Apap,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,37
+5/2/2023 13:30,5/4/2023 6:00,Deborah Kovsky-Apap,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,5
+5/2/2023 13:30,5/4/2023 8:00,Deborah Kovsky-Apap,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/4/2023 14:00,Andrew Rizkalla,Attorney,Yes,36671,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/4/2023 14:00,Andrew Rizkalla,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,80
+5/2/2023 13:30,5/4/2023 17:00,Francis Petrie,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,15
+5/2/2023 13:30,5/4/2023 20:00,Deborah Kovsky-Apap,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,2
+5/2/2023 13:30,5/5/2023 6:00,Andrew Rizkalla,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,40
+5/2/2023 13:30,5/5/2023 7:00,Deborah Kovsky-Apap,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,1
+5/2/2023 13:30,5/5/2023 17:00,Andrew Rizkalla,Attorney,Yes,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,52
+5/2/2023 13:30,5/8/2023 12:00,Molly Ringwald,Observer,ADMIN,36671,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,845ed22d-d1ab-4fc9-98c8-4b10699f3bc2,5
+5/2/2023 14:00,5/1/2023 17:00,Alexandria Pappas,Attorney,Yes,56288,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/2/2023 9:00,Brad Pitt,CourtReporter,CR,42567,5-Star Feedback,Clicked Rate Us Button,fa41dfe7-bbd8-48b3-9e7c-992741159733,1
+5/2/2023 14:00,5/2/2023 10:00,Camilla Cabello,CourtReporter,CR,56288,Screen Share,Started screen-sharing In Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/2/2023 11:00,Ryan Kay,Attorney,Yes,96529,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,6c354e9a-3b7d-472e-abe2-a264a8cac73w,3
+5/2/2023 14:00,5/2/2023 11:00,Xylon Quezada,Attorney,Yes,56288,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,33988c7b-4abd-4a0a-8190-2200a1a845b4,2
+5/2/2023 14:00,5/2/2023 12:00,Ryan Kay,Attorney,Yes,96529,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,6c354e9a-3b7d-472e-abe2-a264a8cac73w,4
+5/2/2023 14:00,5/2/2023 12:00,Xylon Quezada,Attorney,Yes,56288,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,33988c7b-4abd-4a0a-8190-2200a1a845b4,5
+5/2/2023 14:00,5/2/2023 13:00,Toby Keith,Observer,ADMIN,96529,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,6c354e9a-3b7d-472e-abe2-a264a8cac73w,20
+5/2/2023 14:00,5/2/2023 13:00,Toby Keith,Observer,ADMIN,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,50
+5/2/2023 14:00,5/2/2023 13:00,Camilla Cabello,CourtReporter,CR,56288,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/2/2023 13:00,Camilla Cabello,CourtReporter,CR,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/2/2023 17:00,Matthew  Zaso,Paralegal,Yes,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,15
+5/2/2023 14:00,5/2/2023 17:00,Matthew  Zaso,Witness,Yes,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,15
+5/2/2023 14:00,5/2/2023 18:00,Matthew  Zaso,Paralegal,Yes,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,86
+5/2/2023 14:00,5/2/2023 18:00,Matthew  Zaso,Witness,Yes,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,86
+5/2/2023 14:00,5/3/2023 7:00,Alanis Morisette,CourtReporter,CR,96529,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,6c354e9a-3b7d-472e-abe2-a264a8cac73w,1
+5/2/2023 14:00,5/3/2023 12:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/3/2023 17:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,152
+5/2/2023 14:00,5/3/2023 17:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,3
+5/2/2023 14:00,5/3/2023 20:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,70
+5/2/2023 14:00,5/3/2023 20:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/4/2023 6:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,10
+5/2/2023 14:00,5/4/2023 6:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/4/2023 7:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,20
+5/2/2023 14:00,5/4/2023 7:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,2
+5/2/2023 14:00,5/5/2023 17:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,43
+5/2/2023 14:00,5/5/2023 17:00,Alexandria Pappas,Attorney,Yes,56288,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,7
+5/2/2023 14:00,5/5/2023 17:00,Toby Keith,Observer,ADMIN,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/19/2023 5:00,Kristen Bell,CourtReporter,CR,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,31
+5/2/2023 14:00,5/22/2023 4:00,Kristen Bell,CourtReporter,CR,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,1
+5/2/2023 14:00,5/22/2023 9:00,Kenia Nunez,Teammate,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,5
+5/2/2023 14:00,5/22/2023 10:00,Kenia Nunez,Teammate,Yes,56288,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,33988c7b-4abd-4a0a-8190-2200a1a845b4,1
+5/2/2023 14:00,5/24/2023 11:00,Kristen Bell,CourtReporter,CR,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,150
+5/2/2023 14:00,5/24/2023 12:00,Kristen Bell,CourtReporter,CR,96298,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,9779f003-adc2-4541-bb6d-9e5ae843703q,63
+5/2/2023 14:00,5/26/2023 6:00,Brad Pitt,CourtReporter,CR,72567,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,d6ad8024-e1a1-4ea4-a2c2-6ed29463df9q,8
+5/2/2023 14:00,5/26/2023 7:00,Brad Pitt,CourtReporter,CR,72567,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,d6ad8024-e1a1-4ea4-a2c2-6ed29463df9q,38
+5/2/2023 14:00,5/30/2023 12:00,Luciano Lama,Attorney,Yes,72567,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,d6ad8024-e1a1-4ea4-a2c2-6ed29463df9q,2
+5/2/2023 14:00,5/30/2023 12:00,Luciano Lama,Witness,Yes,72567,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,d6ad8024-e1a1-4ea4-a2c2-6ed29463df9q,2
+5/2/2023 15:00,5/2/2023 12:00,Luciano Lama,Attorney,Yes,86385,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,37eec842-1da8-43c6-836b-a7585b3d6aqd,1
+5/2/2023 15:00,5/2/2023 15:00,Scarlett Johansen,CourtReporter,CR,96650,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,646466ab-123f-4ebf-b25f-cffc1a7ee1w7,19
+5/2/2023 15:00,5/25/2023 14:00,Charles Kelly,Attorney,Yes,96650,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,646466ab-123f-4ebf-b25f-cffc1a7ee1w7,1
+5/2/2023 15:00,5/25/2023 15:00,Charles Kelly,Attorney,Yes,96650,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,646466ab-123f-4ebf-b25f-cffc1a7ee1w7,582
+5/2/2023 15:00,5/26/2023 7:00,Brad Pitt,CourtReporter,CR,86385,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,37eec842-1da8-43c6-836b-a7585b3d6abd,67
+5/2/2023 15:00,5/26/2023 8:00,Brad Pitt,CourtReporter,CR,86385,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,37eec842-1da8-43c6-836b-a7585b3d6abd,13
+5/2/2023 15:00,5/26/2023 10:00,Brad Pitt,CourtReporter,CR,86385,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,37eec842-1da8-43c6-836b-a7585b3d6aqd,2
+5/3/2023 9:00,5/3/2023 6:00,Brian Sutter,Attorney,Yes,98765,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,7b58e16f-ecc8-42bf-89e7-fdff09cf885q,2
+5/3/2023 9:00,5/3/2023 7:00,Brian Sutter,Attorney,Yes,98765,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,7b58e16f-ecc8-42bf-89e7-fdff09cf885q,4
+5/3/2023 9:00,5/3/2023 8:00,Alan Peterman,Attorney,Yes,98765,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,7b58e16f-ecc8-42bf-89e7-fdff09cf885q,1
+5/3/2023 9:00,5/3/2023 8:00,Brian Sutter,Attorney,Yes,98765,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,7b58e16f-ecc8-42bf-89e7-fdff09cf885q,1
+5/3/2023 9:00,5/3/2023 9:00,Daniel Flynn,Attorney,Yes,98765,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,7b58e16f-ecc8-42bf-89e7-fdff09cf885q,1
+5/3/2023 9:00,5/3/2023 12:00,James Evans,Attorney,Yes,98765,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,7b58e16f-ecc8-42bf-89e7-fdff09cf885q,1
+5/3/2023 9:00,5/17/2023 13:00,Angelina Jolie,CourtReporter,CR,98765,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,7b58e16f-ecc8-42bf-89e7-fdff09cf885q,33
+5/3/2023 10:00,5/2/2023 6:00,Alanis McAlmont,Paralegal,Yes,66437,Screen Share,Started screen-sharing In Depo,51ea5cf0-0c0d-4327-8387-1c5dac01782w,2
+5/3/2023 10:00,5/2/2023 6:00,Alanis McAlmont,Paralegal,Yes,66437,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,51ea5cf0-0c0d-4327-8387-1c5dac01782w,1
+5/3/2023 10:00,5/3/2023 6:00,Jessica Perry,Attorney,Yes,66437,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,51ea5cf0-0c0d-4327-8387-1c5dac01782w,1
+5/3/2023 10:00,5/3/2023 6:00,Jessica Perry,Attorney,Yes,66437,Screen Share,Started screen-sharing In Depo,51ea5cf0-0c0d-4327-8387-1c5dac01782w,3
+5/3/2023 10:00,5/3/2023 6:00,Oprah Winfrey,TechExpert,ADMIN,66437,Screen Share,Clicked RED 'Stop Share' button In Depo,51ea5cf0-0c0d-4327-8387-1c5dac01782w,1
+5/3/2023 10:00,5/3/2023 6:00,Oprah Winfrey,TechExpert,ADMIN,66437,Screen Share,Started screen-sharing In Depo,51ea5cf0-0c0d-4327-8387-1c5dac01782w,1
+5/3/2023 10:00,5/3/2023 7:00,Christopher Raupers,Attorney,Yes,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,5/3/2023 7:00,Marty McFly,TechExpert,ADMIN,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/3/2023 7:00,Perry Grossman,Observer,Yes,66437,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,51ea5cf0-0c0d-4327-8387-1c5dac01782w,1
+5/3/2023 10:00,5/3/2023 8:00,Christopher Raupers,Attorney,Yes,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,3
+5/3/2023 10:00,5/3/2023 9:00,Christopher Raupers,Attorney,Yes,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/3/2023 10:00,Christopher Raupers,Attorney,Yes,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,9
+5/3/2023 10:00,5/3/2023 11:00,Christopher Raupers,Attorney,Yes,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,6
+5/3/2023 10:00,5/3/2023 11:00,Christopher Raupers,Attorney,Yes,49601,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,5/3/2023 11:00,Peter Metzger,Observer,No,49601,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,5/3/2023 12:00,Christopher Raupers,Attorney,Yes,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,5/3/2023 12:00,Diane Cardoso,Attorney,Yes,49601,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,4
+5/3/2023 10:00,5/3/2023 15:00,Chris Brown,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/3/2023 15:00,Christopher Raupers,Attorney,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/3/2023 15:00,Michelle Gruendel,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/3/2023 16:00,james ryan,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,5/3/2023 17:00,james ryan,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,41
+5/3/2023 10:00,5/4/2023 5:00,Courtney Cox,CourtReporter,CR,49601,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/4/2023 5:00,Courtney Cox,CourtReporter,CR,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/10/2023 10:00,Diane Cardoso,Attorney,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,3
+5/3/2023 10:00,5/19/2023 9:00,Christopher Raupers,Attorney,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,5/19/2023 11:00,Chris Brown,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/19/2023 12:00,Calendar Clerk,Teammate,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/19/2023 12:00,Michelle Gruendel,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,5/19/2023 13:00,Chris Brown,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,5/20/2023 14:00,Chris Brown,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,86
+5/3/2023 10:00,5/30/2023 8:00,Michelle Gruendel,Observer,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,2
+5/3/2023 10:00,6/1/2023 13:00,Theodoros Basdekis,Attorney,Yes,96376,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,6f85b0b9-6493-4981-b4b5-1551a66aeq86,3
+5/3/2023 10:00,6/8/2023 8:00,Calendar Clerk,Teammate,Yes,49601,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,f5581b5d-09ce-4af6-96dd-cfbcedbf7b2q,1
+5/3/2023 10:00,9/12/2023 10:00,Theodoros Basdekis,Attorney,Yes,96376,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,6f85b0b9-6493-4981-b4b5-1551a66aeq86,2
+5/3/2023 10:30,5/3/2023 7:00,Jessica Perry,Attorney,Yes,36471,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/3/2023 9:00,Jessica Perry,Attorney,Yes,36471,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,730be1c9-06cf-4048-b407-6e2aa5138f6w,5
+5/3/2023 10:30,5/3/2023 10:00,Jessica Perry,Attorney,Yes,36471,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/3/2023 11:00,Jessica Perry,Attorney,Yes,36471,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/3/2023 12:00,Jessica Perry,Attorney,Yes,36471,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,730be1c9-06cf-4048-b407-6e2aa5138f6w,2
+5/3/2023 10:30,5/3/2023 13:00,Jessica Perry,Attorney,Yes,36471,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,730be1c9-06cf-4048-b407-6e2aa5138f6w,3
+5/3/2023 10:30,5/3/2023 13:00,Jessica Perry,Attorney,Yes,36471,Screen Share,Clicked RED 'Stop Share' button In Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/3/2023 13:00,Jessica Perry,Attorney,Yes,36471,Screen Share,Started screen-sharing In Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/3/2023 14:00,Jessica Perry,Attorney,Yes,36471,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/3/2023 16:00,Perry Grossman,Observer,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,5
+5/3/2023 10:30,5/4/2023 7:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/4/2023 7:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,8
+5/3/2023 10:30,5/4/2023 8:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,3
+5/3/2023 10:30,5/4/2023 9:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,4
+5/3/2023 10:30,5/5/2023 13:00,Alanis McAlmont,Paralegal,Yes,36471,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/5/2023 13:00,Alanis McAlmont,Paralegal,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/8/2023 7:00,Alanis McAlmont,Paralegal,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/11/2023 12:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,33
+5/3/2023 10:30,5/11/2023 12:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,2
+5/3/2023 10:30,5/11/2023 13:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,35
+5/3/2023 10:30,5/11/2023 13:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/12/2023 8:00,Perry Grossman,Observer,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/12/2023 9:00,Jessica Perry,Attorney,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/12/2023 9:00,George Clooney,CourtReporter,CR,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/12/2023 13:00,Alanis McAlmont,Paralegal,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,2
+5/3/2023 10:30,5/15/2023 10:00,Alanis McAlmont,Paralegal,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,1
+5/3/2023 10:30,5/16/2023 10:00,Molly Biklen,Attorney,Yes,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,17
+5/3/2023 10:30,6/14/2023 7:00,Oprah Winfrey,Observer,ADMIN,36471,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,730be1c9-06cf-4048-b407-6e2aa5138f6w,11
+5/3/2023 11:00,5/3/2023 8:00,Emma Wiegand,Attorney,Yes,96703,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,2e0a9262-3643-4b46-84ae-956cbbwe3912,1
+5/3/2023 11:00,5/3/2023 9:00,Emma Wiegand,Attorney,Yes,96703,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,2e0a9262-3643-4b46-84ae-956cbbwe3912,1
+5/3/2023 11:00,5/3/2023 10:00,Alak Shah,Attorney,Yes,96703,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,2e0a9262-3643-4b46-84ae-956cbbwe3912,1
+5/3/2023 11:00,5/3/2023 10:00,Alak Shah,Attorney,Yes,96703,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,2e0a9262-3643-4b46-84ae-956cbbwe3912,4
+5/3/2023 11:00,5/3/2023 10:00,Camilla Cabello,CourtReporter,CR,96703,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,2e0a9262-3643-4b46-84ae-956cbbwe3912,1
+5/3/2023 11:00,5/3/2023 10:00,Camilla Cabello,CourtReporter,CR,96703,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,2e0a9262-3643-4b46-84ae-956cbbwe3912,1
+5/3/2023 11:00,5/15/2023 8:00,Emma Wiegand,Attorney,Yes,96703,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,2e0a9262-3643-4b46-84ae-956cbbwe3912,7
+5/3/2023 11:00,6/20/2023 7:00,Bernadette Kilduff,Teammate,Yes,96703,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,2e0a9262-3643-4b46-84ae-956cbbwe3912,4
+6/2/2023 9:00,6/2/2023 12:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,10
+6/2/2023 9:00,6/2/2023 12:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,2
+6/2/2023 9:00,6/2/2023 13:00,Christina Battipaglia,Attorney,Yes,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,3
+6/2/2023 9:00,6/2/2023 13:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,2
+6/2/2023 9:00,6/2/2023 13:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,1
+6/2/2023 9:00,6/5/2023 6:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,43
+6/2/2023 9:00,6/5/2023 6:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,7
+6/2/2023 9:00,6/5/2023 7:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,7
+6/2/2023 9:00,6/5/2023 7:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,2
+6/2/2023 9:00,6/5/2023 8:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,6
+6/2/2023 9:00,6/5/2023 8:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,2
+6/2/2023 9:00,6/5/2023 9:00,Denise Richards,CourtReporter,CR,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,2
+6/2/2023 9:00,6/5/2023 11:00,Lori Arnsparger,Teammate,Yes,77763,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,3c79daba-25db-4d2a-88ca-1054a71e56q7,2
+6/2/2023 9:30,6/2/2023 7:00,Suzanne Messer,Attorney,Yes,97253,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,a025a77a-a1d4-4dec-a03d-0c50435dq001,3
+6/2/2023 9:30,6/2/2023 8:00,Suzanne Messer,Attorney,Yes,97253,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,a025a77a-a1d4-4dec-a03d-0c50435dq001,3
+6/2/2023 9:30,6/2/2023 9:00,Suzanne Messer,Attorney,Yes,97253,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,a025a77a-a1d4-4dec-a03d-0c50435dq001,3
+6/2/2023 9:30,6/2/2023 9:00,Suzanne Messer,Attorney,Yes,97253,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,1
+6/2/2023 9:30,6/2/2023 10:00,Suzanne Messer,Attorney,Yes,97253,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,a025a77a-a1d4-4dec-a03d-0c50435dq001,5
+6/2/2023 9:30,6/2/2023 10:00,Suzanne Messer,Attorney,Yes,97253,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,2
+6/2/2023 9:30,6/2/2023 11:00,Suzanne Messer,Attorney,Yes,97253,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,a025a77a-a1d4-4dec-a03d-0c50435dq001,8
+6/2/2023 9:30,6/2/2023 12:00,Suzanne Messer,Attorney,Yes,97253,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,a025a77a-a1d4-4dec-a03d-0c50435dq001,2
+6/2/2023 9:30,6/2/2023 12:00,Suzanne Messer,Attorney,Yes,97253,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,1
+6/2/2023 9:30,6/13/2023 3:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,42
+6/2/2023 9:30,6/13/2023 3:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,4
+6/2/2023 9:30,6/13/2023 9:00,Margie O'Dell,CourtReporter,CR,97253,Post Depo Marked Exhibits Tab,Uploaded NEW Exhibit to Marked Exhibits tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,3
+6/2/2023 9:30,6/13/2023 9:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,29
+6/2/2023 9:30,6/13/2023 10:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,8
+6/2/2023 9:30,6/13/2023 17:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,6
+6/2/2023 9:30,6/13/2023 17:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,2
+6/2/2023 9:30,6/14/2023 8:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,8
+6/2/2023 9:30,6/14/2023 8:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,1
+6/2/2023 9:30,6/14/2023 10:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,3
+6/2/2023 9:30,6/14/2023 10:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,1
+6/2/2023 9:30,6/19/2023 3:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,15
+6/2/2023 9:30,6/19/2023 3:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,1
+6/2/2023 9:30,6/19/2023 10:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,15
+6/2/2023 9:30,6/19/2023 10:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,1
+6/2/2023 9:30,6/19/2023 11:00,Margie O'Dell,CourtReporter,CR,97253,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,a025a77a-a1d4-4dec-a03d-0c50435dq001,35
+6/12/2023 10:30,6/12/2023 8:00,Brittany Marigliano,Attorney,Yes,16805,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00f6e823-2c6d-4676-9f48-b045c361d455,2
+6/12/2023 10:30,6/12/2023 10:00,Camilla Cabello,CourtReporter,CR,16805,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,00f6e823-2c6d-4676-9f48-b045c361d455,1
+6/29/2023 10:00,7/19/2023 12:00,Angelina Jolie,CourtReporter,CR,47887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,56
+6/29/2023 10:00,7/19/2023 13:00,Angelina Jolie,CourtReporter,CR,47887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,75
+6/29/2023 10:00,7/19/2023 14:00,Angelina Jolie,CourtReporter,CR,47887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,11
+6/29/2023 10:00,7/20/2023 8:00,Angelina Jolie,CourtReporter,CR,47887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,22
+6/29/2023 10:00,7/20/2023 9:00,Angelina Jolie,CourtReporter,CR,47887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,99
+6/29/2023 10:00,7/24/2023 14:00,Angelina Jolie,CourtReporter,CR,47887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,50
+6/29/2023 10:00,7/24/2023 15:00,Angelina Jolie,CourtReporter,CR,47887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,36
+6/29/2023 10:00,7/25/2023 9:00,Melissa McCarthy,TechExpert,ADMIN,17887,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,6
+6/29/2023 10:00,9/12/2023 10:00,christine emmick,Teammate,Yes,17887,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,1
+6/29/2023 10:00,9/12/2023 10:00,christine emmick,Teammate,Yes,17887,Post Deposition Transcript Tab,DL CERTIFIED TRANSCRIPT from Transcript Tab in Post Depo,001de192-e798-4e72-a46c-f281a3a81b14,1
+7/10/2023 14:30,7/10/2023 11:00,Frank  Discipio,Attorney,No,18048,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,011fa1d5-ee18-44bb-9fe9-b266788cdcd2,4
+7/10/2023 14:30,7/10/2023 13:00,Scarlett Johansen,CourtReporter,CR,18048,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,011fa1d5-ee18-44bb-9fe9-b266788cdcd2,74
+7/10/2023 14:30,7/10/2023 14:00,Scarlett Johansen,CourtReporter,CR,18048,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,011fa1d5-ee18-44bb-9fe9-b266788cdcd2,22
+7/13/2023 10:00,7/13/2023 8:00,Christopher   Cellante,Attorney,No,18193,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00633d16-fdfe-4f75-8f93-21229bed8fb2,11
+7/13/2023 10:00,7/13/2023 9:00,Christopher   Cellante,Attorney,No,18193,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00633d16-fdfe-4f75-8f93-21229bed8fb2,1
+7/13/2023 10:00,7/13/2023 9:00,Thomas Carafa,Attorney,Yes,18193,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00633d16-fdfe-4f75-8f93-21229bed8fb2,2
+7/13/2023 10:00,7/13/2023 9:00,Thomas Carafa,Attorney,Yes,18193,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,2
+7/13/2023 10:00,7/13/2023 10:00,Jennifer Schauerman,Attorney,Yes,18193,In Depo Marked Exhibits,,00633d16-fdfe-4f75-8f93-21229bed8fb2,1
+7/13/2023 10:00,7/13/2023 10:00,Jennifer Schauerman,Attorney,Yes,18193,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00633d16-fdfe-4f75-8f93-21229bed8fb2,5
+7/13/2023 10:00,7/13/2023 10:00,Thomas Carafa,Attorney,Yes,18193,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00633d16-fdfe-4f75-8f93-21229bed8fb2,5
+7/13/2023 10:00,7/13/2023 11:00,Laurie Vahey,Attorney,Yes,18193,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00633d16-fdfe-4f75-8f93-21229bed8fb2,3
+7/13/2023 10:00,7/13/2023 11:00,Laurie Vahey,Attorney,Yes,18193,Screen Share,Started screen-sharing In Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,1
+7/13/2023 10:00,7/14/2023 6:00,Susan B. Anthony,CourtReporter,CR,18193,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,1
+7/13/2023 10:00,7/14/2023 7:00,Susan B. Anthony,CourtReporter,CR,18193,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,12
+7/13/2023 10:00,7/14/2023 13:00,Thomas Carafa,Attorney,Yes,18193,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,1
+7/13/2023 10:00,10/16/2023 6:00,Joe Rizzo,Attorney,Yes,18193,Post Depo Marked Exhibits Tab,Clicked 'Marked Exhibits' tab to view ALL Marked Exhibits in Post Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,2
+7/13/2023 10:00,10/16/2023 6:00,Joe Rizzo,Attorney,Yes,18193,Post Depo Marked Exhibits Tab,Preview button clicked to view single Exhibit in Post Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,2
+7/13/2023 10:00,10/16/2023 6:00,Joe Rizzo,Attorney,Yes,18193,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,00633d16-fdfe-4f75-8f93-21229bed8fb2,1
+8/1/2023 10:00,8/1/2023 9:00,Michelle Hotchkiss,Paralegal,Yes,17171,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,012e0920-0f54-4af8-a51f-5db91df76f1z,2
+8/1/2023 10:00,8/18/2023 9:00,Brad Pitt,CourtReporter,CR,71171,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,012e0920-0f54-4af8-a51f-5db91df76f1z,2
+8/1/2023 10:00,10/10/2023 8:00,Leslie Miller,Paralegal,Yes,17171,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,012e0920-0f54-4af8-a51f-5db91df76f1z,1
+8/1/2023 10:00,10/10/2023 8:00,Leslie Miller,Paralegal,Yes,17171,Post Deposition Transcript Tab,DL multiple (or All) files as ZIP file from Transcript Tab,012e0920-0f54-4af8-a51f-5db91df76f1z,1
+8/1/2023 10:30,7/31/2023 12:00,Joel  MacMull,Attorney,Yes,18286,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,3
+8/1/2023 10:30,7/31/2023 13:00,Joel  MacMull,Attorney,Yes,18286,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,13
+8/1/2023 10:30,7/31/2023 14:00,Joel  MacMull,Attorney,Yes,18286,Send Exhibit Copy,Sent Exhibit Copy to another participant In Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/1/2023 10:30,8/1/2023 8:00,Joel  MacMull,Attorney,Yes,18286,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00ca69b5-552b-438e-81c7-595d2dd09d3f,9
+8/1/2023 10:30,8/1/2023 9:00,Joel  MacMull,Attorney,Yes,18286,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00ca69b5-552b-438e-81c7-595d2dd09d3f,10
+8/1/2023 10:30,8/1/2023 10:00,Joel  MacMull,Attorney,Yes,18286,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,00ca69b5-552b-438e-81c7-595d2dd09d3f,9
+8/1/2023 10:30,8/2/2023 6:00,Oprah Winfrey,TechExpert,ADMIN,18286,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,3
+8/1/2023 10:30,8/2/2023 7:00,Oprah Winfrey,TechExpert,ADMIN,18286,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,3
+8/1/2023 10:30,8/2/2023 8:00,Oprah Winfrey,TechExpert,ADMIN,18286,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,6
+8/1/2023 10:30,8/2/2023 8:00,Oprah Winfrey,TechExpert,ADMIN,18286,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/1/2023 10:30,8/2/2023 8:00,Steven Fox,Attorney,Yes,18286,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,11
+8/1/2023 10:30,8/2/2023 8:00,Steven Fox,Attorney,Yes,18286,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/1/2023 10:30,8/3/2023 6:00,Walter White,CourtReporter,CR,18286,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/1/2023 10:30,8/5/2023 8:00,Jay Branderbit Branderbit,Attorney,Yes,18286,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,6
+8/1/2023 10:30,9/18/2023 13:00,Joel  MacMull,Attorney,Yes,18286,Post Depo Marked Exhibits Tab,Clicked 'Marked Exhibits' tab to view ALL Marked Exhibits in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/1/2023 10:30,9/18/2023 13:00,Joel  MacMull,Attorney,Yes,18286,Post Depo Marked Exhibits Tab,Clicked small 'eye' icon in Preview drawer of Marked Exhibit,00ca69b5-552b-438e-81c7-595d2dd09d3f,2
+8/1/2023 10:30,9/18/2023 13:00,Joel  MacMull,Attorney,Yes,18286,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,9
+8/1/2023 10:30,9/18/2023 13:00,Joel  MacMull,Attorney,Yes,18286,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/1/2023 10:30,10/11/2023 7:00,Steven Fox,Attorney,Yes,18286,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/1/2023 10:30,11/10/2023 9:00,Joel  MacMull,Attorney,Yes,18286,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,14
+8/1/2023 10:30,11/10/2023 9:00,Joel  MacMull,Attorney,Yes,18286,Post Deposition Summary Tab,Searched for key word on Rough Draft in Summary Tab in Post Depo,00ca69b5-552b-438e-81c7-595d2dd09d3f,1
+8/14/2023 10:00,8/14/2023 7:00,Mark Houston,Attorney,Yes,18443,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,011c4943-ba64-4aa3-aa32-1a1dd98ea789,5
+8/14/2023 10:00,8/14/2023 8:00,Mark Houston,Attorney,Yes,18443,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,011c4943-ba64-4aa3-aa32-1a1dd98ea789,3
+8/14/2023 10:00,8/17/2023 11:00,Mark Houston,Attorney,Yes,18443,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,011c4943-ba64-4aa3-aa32-1a1dd98ea789,1
+8/14/2023 10:00,9/5/2023 9:00,James Alexander,Attorney,Yes,18443,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,011c4943-ba64-4aa3-aa32-1a1dd98ea789,2
+8/14/2023 10:00,11/5/2023 10:00,James Alexander,Attorney,Yes,18443,Post Depo Marked Exhibits Tab,DL multiple or all Exhibits as ZIP file in Post Depo,011c4943-ba64-4aa3-aa32-1a1dd98ea789,1
+8/14/2023 15:00,8/14/2023 12:00,Grant Golson,Attorney,Yes,18888,Screen Share,Started screen-sharing In Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,5
+8/14/2023 15:00,8/14/2023 12:00,Walter White,CourtReporter,CR,18888,Screen Share,Clicked RED 'Stop Share' button In Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,1
+8/14/2023 15:00,8/14/2023 12:00,Walter White,CourtReporter,CR,18888,Screen Share,Started screen-sharing In Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,1
+8/14/2023 15:00,8/14/2023 13:00,Grant Golson,Attorney,Yes,18888,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,81
+8/14/2023 15:00,8/14/2023 13:00,Walter White,CourtReporter,CR,18888,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,1
+8/14/2023 15:00,8/14/2023 13:00,Walter White,CourtReporter,CR,18888,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,1
+8/14/2023 15:00,8/14/2023 14:00,Alex Simms,Paralegal,Yes,18888,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,1
+8/14/2023 15:00,8/14/2023 14:00,Alex Simms,Paralegal,Yes,18888,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,1
+8/14/2023 15:00,9/5/2023 12:00,Sumbo  Onasanya,Paralegal,Yes,18888,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,1
+8/14/2023 15:00,9/5/2023 12:00,Sumbo  Onasanya,Paralegal,Yes,18888,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,002b6d69-7a23-4427-8b2d-c551e7d7d0fc,10
+8/28/2023 13:30,8/28/2023 14:00,Susan B. Anthony,CourtReporter,CR,18135,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,1
+8/28/2023 13:30,8/28/2023 14:00,Susan B. Anthony,CourtReporter,CR,18135,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,12
+8/28/2023 13:30,8/30/2023 8:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Summary Tab,DL Rough Draft from Summary Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,1
+8/28/2023 13:30,9/13/2023 11:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,4
+8/28/2023 13:30,9/13/2023 11:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,1
+8/28/2023 13:30,9/13/2023 12:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,2
+8/28/2023 13:30,9/13/2023 13:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,1
+8/28/2023 13:30,9/18/2023 8:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,2
+8/28/2023 13:30,9/18/2023 8:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,1
+8/28/2023 13:30,9/18/2023 8:00,Emily Gerrick,Attorney,Yes,18135,Post Deposition Transcript Tab,DL CERTIFIED TRANSCRIPT from Transcript Tab in Post Depo,00cba9b9-7844-47b1-a1a0-4bcfca10248a,1
+10/19/2023 10:00,10/19/2023 6:00,Amalia  Flores ,Attorney,No,20136,Join Proceeding,Clicked 'JOIN NOW' in Everything Ready? Page,01139a8a-7793-4334-9e08-e3a5e3eae771,2
+10/19/2023 10:00,10/19/2023 6:00,Amalia  Flores ,Witness,No,20136,Join Proceeding,Clicked 'JOIN NOW' in Everything Ready? Page,01139a8a-7793-4334-9e08-e3a5e3eae771,2
+10/19/2023 10:00,10/19/2023 6:00,Joe Rizzo,Attorney,Yes,20136,Join Proceeding,Clicked 'JOIN NOW' in Everything Ready? Page,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 6:00,Katie Perry,CourtReporter,CR,20136,Join Proceeding,Clicked 'JOIN NOW' in Everything Ready? Page,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 6:00,Stephanie Webster,Observer,No,20136,Join Proceeding,Clicked 'JOIN NOW' in Everything Ready? Page,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 7:00,Joe Rizzo,Attorney,Yes,20136,MyExhibit Document Share,Shared exhibit from 'My Exhibits' as LIVE Exhibit,01139a8a-7793-4334-9e08-e3a5e3eae771,2
+10/19/2023 10:00,10/19/2023 7:00,Katie Perry,CourtReporter,CR,20136,In Depo Speech-To-Text,Clicked 'Resume Speech-To-Text' button,01139a8a-7793-4334-9e08-e3a5e3eae771,3
+10/19/2023 10:00,10/19/2023 7:00,Katie Perry,CourtReporter,CR,20136,In Depo Speech-To-Text,Opened Speech-To-Text Panel,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 7:00,Katie Perry,CourtReporter,CR,20136,In Depo Speech-To-Text,Scrolled through 'Speech-To-Text',01139a8a-7793-4334-9e08-e3a5e3eae771,10
+10/19/2023 10:00,10/19/2023 8:00,Katie Perry,CourtReporter,CR,20136,Post Depo Marked Exhibits Tab,Clicked 'Marked Exhibits' tab to view ALL Marked Exhibits in Post Depo,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 8:00,Katie Perry,CourtReporter,CR,20136,Post Depo Marked Exhibits Tab,DL single exhibit from 'Marked Exhibits' in Post Depo,01139a8a-7793-4334-9e08-e3a5e3eae771,2
+10/19/2023 10:00,10/19/2023 8:00,Katie Perry,CourtReporter,CR,20136,Post Deposition Summary Tab,Admin or CR DL Witness AUDIO from Summary Tab in Post Depo,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 8:00,Katie Perry,CourtReporter,CR,20136,Post Deposition Summary Tab,Scrolled through Rough Draft in Summary Tab in Post Depo,01139a8a-7793-4334-9e08-e3a5e3eae771,11
+10/19/2023 10:00,10/19/2023 8:00,Katie Perry,CourtReporter,CR,20136,Post Deposition Transcript Tab,Clicked on 'Transcript' tab in Post Depo,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 8:00,Katie Perry,CourtReporter,CR,20136,Post Deposition Transcript Tab,DL Rough Draft from Transcript Tab in Post Depo,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 8:00,Stephanie Webster,Observer,No,20136,In Depo Speech-To-Text,Closed Speech-To-Text Panel,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 8:00,Stephanie Webster,Observer,No,20136,In Depo Speech-To-Text,Opened Speech-To-Text Panel,01139a8a-7793-4334-9e08-e3a5e3eae771,1
+10/19/2023 10:00,10/19/2023 8:00,Stephanie Webster,Observer,No,20136,In Depo Speech-To-Text,Scrolled through 'Speech-To-Text',01139a8a-7793-4334-9e08-e3a5e3eae771,15
